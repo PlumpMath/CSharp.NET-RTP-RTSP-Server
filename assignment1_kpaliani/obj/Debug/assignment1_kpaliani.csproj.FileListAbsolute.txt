@@ -1,0 +1,9 @@
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.exe.config
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.csprojResolveAssemblyReference.cache
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.Form1.resources
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.Properties.Resources.resources
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.csproj.GenerateResource.Cache
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.exe
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.pdb
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.exe
+C:\Users\kianpaliani\Documents\Visual Studio 2015\Projects\assignment1_kpaliani\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.pdb
